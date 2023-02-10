@@ -1,8 +1,3 @@
-/*Console based game To find a random number between a pre specified range, By using Basic
-  while loops,count function and some conditional statements.
-  ->Print the winning message & also shows the number of attemp by using the count function.
-  ->Also added a default number, By inserting you can find that Random Number. */
-
 package com.game;
 
 import java.util.Scanner;
